@@ -1,0 +1,13 @@
+[INFO] this is info massages !
+[INFO] this is info massages !
+[INFO] this is info massages !
+[DEBUG] this is for debuging !
+[CRITICAL] this is with singleton critical obj
+[CRITICAL] this is with singleton critical obj
+[CRITICAL] this is with singleton critical obj
+[CRITICAL] this is with singleton critical obj
+[CRITICAL] this is with singleton critical obj
+[CRITICAL] this is with singleton critical obj
+[ERROR] this error create with singleton critical obj
+[CRITICAL] this is with singleton critical obj
+[ERROR] this error create with singleton critical obj
